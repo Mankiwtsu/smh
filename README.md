@@ -1,6 +1,6 @@
 
 <center>
-    <p><style>{{padding:40em}}<a href="https://www.instagram.com/ulas.kiracc"><img src="https://imgur.com/M28ioyO.png" border="0" width="250" /></a</style></p>
+    <p>{{padding:40em}}<a href="https://www.instagram.com/ulas.kiracc"><img src="https://imgur.com/M28ioyO.png" border="0" width="250" /></a</p>
     <h1 align="center">Shakin' My Head by ulash</h3>
     <h3 align="center">A software that helps you find out who is not following you back on Instagram.<br>No nonsense such as having to give your credentials for logging into your Instagram account and taking away your privacy.</br></h3>
     <p align="center">
