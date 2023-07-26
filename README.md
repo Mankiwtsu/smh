@@ -39,8 +39,8 @@
 - Click on **"Download Your Information"**
 - **(IMPORTANT)** Enter any email of yours and Request download in HTML 
 
-<img src="https://imgur.com/xsc5ChH.png" width = 270 border="0" />
-<img src="https://imgur.com/AtghnN9.png" width = 350 height = 350 border="0" />
+<img src="https://imgur.com/xsc5ChH.png" width = 280 border="0" />
+<img src="https://imgur.com/AtghnN9.png" width = 370 height = 350 border="0" />
 <img src="https://imgur.com/yVoLHys.png" width = 320 height = 350 border="0" />
 
 
