@@ -35,18 +35,19 @@
 
 #### 1. Downloading your Instagram data.
 - Login to your [Instagram](https://www.instagram.com) account on any browser. 
-- Go to your profile page (or not) and click on the **"Your Activity"** button
-- Click on **"Download Your Information"**
-- **(IMPORTANT)** Enter any email of yours and Request download in HTML 
-
-<img src="https://imgur.com/xsc5ChH.png" width = 280 border="0" />
-<img src="https://imgur.com/AtghnN9.png" width = 390 height = 350 border="0" />
-<img src="https://imgur.com/yVoLHys.png" width = 320 height = 350 border="0" />
-
+~~- Go to your profile page (or not) and click on the **"Your Activity"** button~~
+- Click on **More** and navigate to **Settings**
+- Click on Accounts Center and find **"Your information and permissions"**
+- Click on **"Download/Export Your Information"**
+- From there, press **"Export to device"** and navigate to **"Customize information"** and mark only "Followers and Following", leave the rest unchecked and set the date range to all time.
+- After pressing export, you'll recieve a ZIP file within the next 5-10 minutes, hit download once you do.
 
 
+<img src="https://i.imgur.com/miRQkxi.png" width = 280 border="0" />
+<img src="https://i.imgur.com/ciX3x1e.png" width = 280 border="0" />
+<img src="https://i.imgur.com/64imw0a.png" width = 700 height = 500 border="0" />
 
-You should get a mail within an hour with a link to download your Instagram data. Download it and go to the next step.
+
 
 
 #### 2. Running the program.
