@@ -52,7 +52,7 @@
 
 #### 2. Running the program.
 - Open the downloaded ZIP file (your IG data)
-- From the **followers_and_following** folder, extract **followers.html** and **following.html** to your preferred location.:heavy_exclamation_mark:If you are on macOS, you must extract it to your Downloads folder:heavy_exclamation_mark:(Once you got the required files extracted, you can erase the ZIP file.)
+- From the **followers_and_following** folder, extract **followers.html** and **following.html** to your preferred location :exclamation: If you are on macOS, you must extract it to your Downloads folder:exclamation:(Once you got the required files extracted, you can erase the ZIP file.)
 - **(IMPORTANT)** If your followers.html or following.html files names are different like "following_1.html" or "followers_1.html" simply just erase any underscores or numbers from the file name.
 
 Mac users please follow the steps from [Imgur](https://imgur.com/a/ZctITIb)
